@@ -24,7 +24,6 @@ Create a page where the user can add a new transaction. The user should be able 
 
 ## Transactions List Page
 Display all transactions in a list. Each item should show its key details.  
-Include a way for the user to **filter** the list to show
 
 Provide a way for the user to **delete** or **update** a transaction.
 
