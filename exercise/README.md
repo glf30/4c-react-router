@@ -7,7 +7,7 @@ To access an individual user use https://jsonplaceholder.typicode.com/users/${id
 ### 1. Home Page (`/`)
 
 * Display a welcome message
-* Add links to the **User List** page
+* A link to the **User List** page
 
 ---
 
